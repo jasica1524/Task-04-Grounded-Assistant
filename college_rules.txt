@@ -1,0 +1,8 @@
+College Library Rules
+
+The college library is open from 8:00 AM to 8:00 PM from Monday to Saturday.
+Students can borrow up to three books at one time.
+Each book can be issued for fourteen days.
+A late return may result in a fine of Rs. 2 per day per book.
+Students must carry their college ID card when borrowing books.
+The library is closed on Sundays and public holidays.
